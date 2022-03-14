@@ -1,0 +1,16 @@
+.nav-item{
+	background-color: lightgray;
+	border: solid 1px black;
+	border-collapse: collapse;
+}
+#main-content{
+	margin:  10px;
+	background-color: lightgray;
+}
+h1{
+	font-weight: bold;
+}
+h2{
+	text-align: center;
+	padding: 5px;
+}
